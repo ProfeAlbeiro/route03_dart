@@ -1,5 +1,7 @@
 void main() {
-  // Descripción del Objetivo o Problema a resolver, organizado como Sistema [Entradas, Proceso y Salidas]
+  // Inicio Algoritmo
+
+  // Describir el Objetivo o Problema a resolver, organizado como Sistema [Entradas, Proceso y Salidas]
 
   // Declarar constantes, variables y/o dimensionar arreglos asignando valores.
 
@@ -8,7 +10,7 @@ void main() {
   // Proceso: Determinar los requerimientos y validaciones. Generalmente,
   //          se usan las estructuras de control: Secuencial, condicional, repetición.
 
-  // Salida de Datos: Resultado(s). Pueden ser parte del proceso.
+  // Salida de Datos: Resultado(s). Pueden ser parte del Proceso.
 
   /*
   * Comentario
@@ -26,4 +28,6 @@ void main() {
   * en formato 
   * bloque
   */
+
+  // Fin Algoritmo
 }
